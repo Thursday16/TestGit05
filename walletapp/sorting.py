@@ -34,6 +34,8 @@ def quick_sort():
     my_list = [3, 6, 8, 10, 1, 2, 1, 10, 12]
     sorted_list = quick_sorting(my_list)
     print(sorted_list)
+    
+#Alphabet
 
 def swap(list):
     #number of swapping
